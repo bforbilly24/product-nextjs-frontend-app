@@ -2,7 +2,13 @@
 
 <img width="960" height="540" alt="Image" src="https://github.com/user-attachments/assets/8a1d4a8f-0538-44c7-9ff1-3a11329fe7b3" />
 
-The ultimate landing page template for your developer tool startup. A modern, responsive landing page built with [Next.js](https://nextjs.org/), [Tailwind CSS](https://tailwindcss.com/), and [Magic UI](https://magicui.design/) components. Perfect for AI agent platforms, SaaS products, and tech companies looking to showcase their developer tools and APIs.
+I've received a fair number of asks to build more components that look like the [neobrustalism](https://www.neobrutalism.dev/) website. Instead, I built a full template 🫡.
+
+This clean, bold, neobrutalist landing page template makes for a great starting point for your next startup or side project. Whether that be a venture-backed SaaS company or a side project for your portfolio.
+
+This template contains a landing page built with ReactJS on top of NextJS, TailwindCSS, and Framer Motion. You'll find downloads for both JavaScript and TypeScript.
+
+I opted to stick with the NextJS pages router to keep it simple for anyone new to NextJS or wanting to migrate this template out of the framework.
 
 ## 🚀 Features
 
